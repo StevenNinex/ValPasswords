@@ -6,7 +6,7 @@
 <p>Puedes clonar el repositorio usando:</p>
 
 ```
-git clone https://github.com/StevenNinex/ValPasswords/q
+git clone https://github.com/StevenNinex/ValPasswords/
 
 python setup.py
 ```
